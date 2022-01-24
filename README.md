@@ -17,3 +17,4 @@ This audit analysis helps provide information as to where most of the votes were
 - Diana DeGette won the election with 272,892 votes on a percentage of 73.8% of all votes
 
 ## Audit Summary 
+The general concept of providing quick analysis of an election can be used with this script. If the script needs to be adjusted for local or state government propesations , it can be done so by replicating the script from both counties and canditates. Some more detailed voter demographics can also be added to understand outcomes per poll. That number should include people who did not vote for anyone for a position but decided to vote in a propisition. as that adjustment can also be made on other elections. 
